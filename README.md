@@ -10,4 +10,8 @@ expected :
      output: password does not meet the required conditions
 3) Enter: P@1
      output: Password does not meet the required conditions
-   
+
+   For each expected outcome, a different method is required.
+       Create name for each method
+        Use each method to make a smaller, more consice code
+       
